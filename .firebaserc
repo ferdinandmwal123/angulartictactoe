@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "angulartictactoe-ba521",
+    "default": "angulartictactoe-ba521"
+  }
+}
